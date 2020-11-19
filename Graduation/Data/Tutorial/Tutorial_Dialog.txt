@@ -1,0 +1,11 @@
+Press the left and right arrow keys to move.
+
+Press the down arrow keys to avoid.
+
+     Press the space key to jump.
+
+    Press the A key in a row to attack.
+
+      Press the X key to Special attack.
+
+Use a special attack to escape from prison!

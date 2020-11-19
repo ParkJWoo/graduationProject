@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  AnimationTool.cpp
+  BackLayer.cpp
+c:\users\owner\desktop\framework_mordeo\tool\backlayer.cpp(71): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Background.cpp
+  Device.cpp
+  FileInfo.cpp
+  FirstLayer.cpp
+c:\users\owner\desktop\framework_mordeo\tool\firstlayer.cpp(71): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FrontLayer.cpp
+c:\users\owner\desktop\framework_mordeo\tool\frontlayer.cpp(71): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Line.cpp
+  MainFrm.cpp
+  MapTool.cpp
+  MultiTexture.cpp
+  MyForm.cpp
+  ObjectTool.cpp
+  PathFind.cpp
+  SecondLayer.cpp
+c:\users\owner\desktop\framework_mordeo\tool\secondlayer.cpp(71): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SingleTexture.cpp
+  Terrain.cpp
+  Texture.cpp
+  TextureMgr.cpp
+  Tool.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ToolDoc.cpp
+  ToolView.cpp
+  UnitTool.cpp
+  코드를 생성하고 있습니다...
+  Tool.vcxproj -> C:\Users\owner\Desktop\Framework_Mordeo\Debug\Tool.exe
